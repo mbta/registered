@@ -39,23 +39,23 @@ SELECT
   0 AS IntervalType,
   gn1.geo_node_abbr AS FromStopNumber,
   gn1.geo_node_name AS FromStopDescription,
-  CASE
-        WHEN gn1.use_survey = 1 THEN (gn1.latitude / 10000000)
-        ELSE (gn1.map_latitude / 10000000) END
+  (CASE
+        WHEN gn1.use_survey = 1 THEN gn1.latitude
+        ELSE gn1.map_latitude END) / 10000000
   as FromStopLatitude,
-  CASE
-        WHEN gn1.use_survey = 1 THEN (gn1.longitude / 10000000)
-        ELSE (gn1.map_longitude / 10000000) END
+  (CASE
+        WHEN gn1.use_survey = 1 THEN gn1.longitude
+        ELSE gn1.map_longitude END) / 10000000
   as FromStopLongitude,
   gn2.geo_node_abbr AS ToStopNumber,
   gn2.geo_node_name AS ToStopDescription,
-  CASE
-        WHEN gn2.use_survey = 1 THEN (gn2.latitude / 10000000)
-        ELSE (gn2.map_latitude / 10000000) END
+  (CASE
+        WHEN gn2.use_survey = 1 THEN gn2.latitude
+        ELSE gn2.map_latitude END) / 10000000
   as ToStopLatitude,
-  CASE
-        WHEN gn2.use_survey = 1 THEN (gn2.longitude / 10000000)
-        ELSE (gn2.map_longitude / 10000000) END
+  (CASE
+        WHEN gn2.use_survey = 1 THEN gn2.longitude
+        ELSE gn2.map_longitude END) / 10000000
   as ToStopLongitude,
   MIN(RTRIM(r.route_abbr)) AS Route,
   MIN(RTRIM(rd.route_direction_name)) AS Direction,
@@ -103,23 +103,23 @@ SELECT
   dh.dh_type AS IntervalType,
   gn1.geo_node_abbr AS FromStopNumber,
   gn1.geo_node_name AS FromStopDescription,
-  CASE
-        WHEN gn1.use_survey = 1 THEN (gn1.latitude / 10000000)
-        ELSE (gn1.map_latitude / 10000000) END
+  (CASE
+        WHEN gn1.use_survey = 1 THEN gn1.latitude
+        ELSE gn1.map_latitude END) / 10000000
   as FromStopLatitude,
-  CASE
-        WHEN gn1.use_survey = 1 THEN (gn1.longitude / 10000000)
-        ELSE (gn1.map_longitude / 10000000) END
+  (CASE
+        WHEN gn1.use_survey = 1 THEN gn1.longitude
+        ELSE gn1.map_longitude END) / 10000000
   as FromStopLongitude,
   gn2.geo_node_abbr AS ToStopNumber,
   gn2.geo_node_name AS ToStopDescription,
-  CASE
-        WHEN gn2.use_survey = 1 THEN (gn2.latitude / 10000000)
-        ELSE (gn2.map_latitude / 10000000) END
+  (CASE
+        WHEN gn2.use_survey = 1 THEN gn2.latitude
+        ELSE gn2.map_latitude END) / 10000000
   as ToStopLatitude,
-  CASE
-        WHEN gn2.use_survey = 1 THEN (gn2.longitude / 10000000)
-        ELSE (gn2.map_longitude / 10000000) END
+  (CASE
+        WHEN gn2.use_survey = 1 THEN gn2.longitude
+        ELSE gn2.map_longitude END) / 10000000
   as ToStopLongitude,
   MIN(RTRIM(r.route_abbr)) AS Route,
   MIN(RTRIM(rd.route_direction_name)) AS Direction,
