@@ -344,7 +344,7 @@ def validate_all_revenue_trips_are_public(rating):
             file_type="trp",
             key=trip.trip_id,
             error="trip_revenue_and_non_public",
-            description=f"trip {trip.trip_id} is revenue but won't be imported since it's non-public",
+            description=f"trip {trip.trip_id} is revenue but non-public",
         )
 
 

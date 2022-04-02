@@ -61,7 +61,8 @@ def boolean_integer(string_or_bool):
 
 def stop_timepoint(string_or_bool):
     """
-    Converter to convert a boolean or "0"/"1" string to a boolean. Treat "X" as True, empty string as False.
+    Converter to convert a boolean or "0"/"1" string to a boolean.
+    Treat "X" as True, empty string as False.
     """
     if isinstance(string_or_bool, str):
         if string_or_bool.strip() == "X":
