@@ -23,7 +23,7 @@ $ vi .env
 ### Windows
 ```
 $ powershell -ExecutionPolicy ByPass -c "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; irm https://astral.sh/uv/install.ps1 | iex"
-$ set Path=C:\Users\%USERNAME%\.cargo\bin;%Path%
+$ set Path=C:\Users\%USERNAME%\.local\bin;%Path%
 $ uv python install
 $ uv sync
 $ copy .env.template .env
