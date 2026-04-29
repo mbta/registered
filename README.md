@@ -128,4 +128,4 @@ For stop intervals:
 $ uv run python -m registered.stop_intervals intervals.html --stop-id=32549
 ```
 
-[TransitMaster New Rating Procedure]: https://github.com/mbta/wiki/blob/master/transit_tech/Procedures/TransitMaster/TM-03_Make_Updates.md
+[TransitMaster New Rating Procedure]: https://app.asana.com/1/15492006741476/project/1204602155957605/list/1204604510166497
