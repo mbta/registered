@@ -22,6 +22,7 @@ def get_intervals_from_stops(rating, stops):
     interval_pairs = defaultdict(set)
     intervals = set()
     all_stops = {stop.stop_id: stop for stop in rating["nde"]}
+    interval_count = 0
     for record in rating["pat"]:
         if isinstance(record, Pattern):
             if record.revenue_type == PatternRevenueType.REVENUE:
@@ -35,12 +36,14 @@ def get_intervals_from_stops(rating, stops):
             to_stop_name = all_stops[to_stop].name
             if all([this_route, from_stop]) and (to_stop in stops or from_stop in stops):
                 this_interval = (from_stop, to_stop)
+                interval_count += 1
                 if this_interval not in intervals:
                     interval_pairs[(from_stop, to_stop, from_stop_name, to_stop_name)] = this_route
                     intervals.add(this_interval)
             from_stop = to_stop
             from_stop_name = to_stop_name
     by_route = sorted(interval_pairs.items(), key=lambda x: x[1])
+    print(interval_count)
     return by_route
 
 def print_by_route(by_route):

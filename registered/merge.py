@@ -17,17 +17,6 @@ from datetime import datetime
 
 MERGE_DIRECTORIES = [
     "HASTUS_export",
-    "ArborTest",
-    "SohamTest",
-    "CabotTest",
-    "BennttTest",
-    "SomvlTest",
-    "CharlTest",
-    "AlbanTest",
-    "FellsTest",
-    "QuinTest",
-    "LynnTest",
-    "SohamDR",
 ]
 
 MERGE_EXTENSIONS = ["nde", "plc", "rte", "trp", "pat", "ppat", "blk", "crw", "cal", "net", "netextra"]

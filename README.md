@@ -109,5 +109,5 @@ $ uv run python -m registered.stop_comparison <path to current Rating/Combine> <
 ## Unique Interval Changes
 
 ```
-$ uv run python -m registered.intervals.interval_changes <path to next Rating/Combine> <path to TM Change Requests> <stop changes sheet name>
+$ uv run python -m registered.intervals.interval_changes <path to TM Change Requests> <stop changes sheet name> <path to next Rating/Combine>
 ```
