@@ -19,7 +19,8 @@ from registered import calendar, cheat_sheet, environ, merge, parser, seasons, v
 
 HASTUS = environ["HASTUS_FILE_SERVER"]
 TRANSITMASTER = environ["TRANSITMASTER_FILE_SERVER"]
-TRANSITMASTER_DB = environ["TRANSITMASTER_FTP_SERVER"]
+TRANSITMASTER_DB = environ["TRANSITMASTER_DATABASE_SERVER"]
+TRANSITMASTER_FTP = environ ["TRANSITMASTER_FTP_SERVER"]
 SLASH = "\\"
 
 
@@ -182,7 +183,7 @@ def pull_prior_versions(tempdir):
     """
     smbclient.shutil.copyfile(
         smb_path(
-            TRANSITMASTER_DB,
+            TRANSITMASTER_FTP,
             "d$",
             "FTP_ROOT",
             "Operational Data",
@@ -194,7 +195,7 @@ def pull_prior_versions(tempdir):
         tempdir / "PriorVersions" / "svc-desc.txt",
     )
     annun_path = smb_path(
-        TRANSITMASTER_DB,
+        TRANSITMASTER_FTP,
         "d$",
         "FTP_ROOT",
         "Operational Data",
@@ -213,7 +214,7 @@ def pull_prior_versions(tempdir):
         )
     smbclient.shutil.copyfile(
         smb_path(
-            TRANSITMASTER_DB,
+            TRANSITMASTER_FTP,
             "d$",
             "FTP_ROOT",
             "Operational Data",
