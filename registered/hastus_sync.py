@@ -304,6 +304,7 @@ def sync_hastus(args):
         print("Validating...")
         return_code = validate.validate_path(tempdir / "Combine")
         if return_code != 0:
+            write_cheat_sheet(tempdir)
             return return_code
     pull_prior_versions(tempdir)
     schedules_per_garage(tempdir)

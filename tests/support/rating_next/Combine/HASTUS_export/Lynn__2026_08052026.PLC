@@ -1,0 +1,72 @@
+PLC;baspt ;bass point, nahant - lynn               ;      ;      ;CALC    ;                    ;  808719.0; 2979309.0
+PLC;bchmt ;beachmont - lynn                        ;      ;      ;        ;                    ;  793301.2; 2970316.4
+PLC;bchmw ;beachmont west - lynn                   ;      ;      ;CALC    ;                    ;  793186.7; 2970438.6
+PLC;bell  ;bell circle - revere                    ;      ;revere;        ;                    ;  791132.0; 2974680.0
+PLC;belsq ;bellingham sq, chelsea - lynn charl     ;      ;      ;CALC    ;                    ;  782007.0; 2968436.0
+PLC;bevsq ;Beverly Square                          ;      ;bever ;        ;                    ;  823715.0; 3025707.0
+PLC;brown ;brown circle                            ;      ;revere;        ;                    ;  790160.3; 2978797.2
+PLC;buchb ;buchanan circle, east lynn - lynn       ;      ;      ;        ;                    ;  808087.5; 3003750.2
+PLC;bwcen ;broadway & central, revere - lynn       ;      ;      ;CALC    ;                    ;  787928.0; 2974964.0
+PLC;cenpk ;Centennial Park, Peabody (Lynn)         ;      ;      ;        ;                    ;  801674.0; 3015948.0
+PLC;censq ;central square, lynn station new busway ;      ;lynn  ;CALC    ;                    ;  805506.3; 2993843.4
+PLC;chest ;chestnut st & western ave, lynn         ;      ;      ;        ;                    ;  804727.0; 2999400.0
+PLC;clift ;cliftondale sq, saugus - lynn           ;      ;      ;        ;                    ;  788515.0; 2988875.0
+PLC;cntle ;central square, east boston             ;      ;boston;        ;                    ;  780721.4; 2962179.7
+PLC;coold ;adams & cooledge                        ;      ;      ;        ;                    ;  786639.0; 2977188.0
+PLC;cumpk ;Cummings Center - lynn                  ;      ;bever ;        ;                    ;  821637.0; 3028161.0
+PLC;dodge ;Dodge st @ cabot st                     ;      ;bever ;        ;                    ;  819634.0; 3034008.0
+PLC;eagle ;eagle sq, east boston - lynn            ;      ;      ;CALC    ;                    ;  783733.0; 2964331.0
+PLC;esaug ;east saugus - lynn                      ;      ;      ;        ;                    ;  792684.0; 2989504.0
+PLC;essex ;essex st @ eastern ave - lynn           ;      ;      ;CALC    ;                    ;  810264.0; 2998528.0
+PLC;estws ;Eastern Ave @ Western Ave.              ;      ;lynn  ;        ;                    ;  806713.0; 3002206.0
+PLC;eubrw ;Euclid & Broadway - lynn                ;      ;lynn  ;        ;                    ;  801911.0; 3003266.0
+PLC;gdmpk ;goodridge st @ memorial pk ave (lyn eng);      ;lynn  ;CALC    ;                    ;  805610.0; 2999065.0
+PLC;goodw ;goodwins circle - lynn                  ;      ;      ;CALC    ;                    ;  793114.0; 3011871.0
+PLC;grana ;Kennedy Dr (Granada) - charl fells      ;      ;      ;CALC    ;                    ;  782867.0; 2984743.0
+PLC;hayms ;haymarket - cabot albny lynn fells charl;      ;      ;CALC    ;Haymarket           ;  775574.8; 2957688.8
+PLC;holyk ;holyoke st @ o'callaghan way(LynnClasic);      ;      ;CALC    ;                    ;  795471.0; 2994978.0
+PLC;jefpt ;jeffries pt. loop @ mavck - lynn        ;      ;      ;CALC    ;                    ;  782996.5; 2958951.8
+PLC;kings ;ocallaghan way & kings - lynn           ;      ;      ;        ;                    ;  794824.0; 2996108.0
+PLC;libtr ;liberty tree mall - lynn                ;      ;      ;CALC    ;                    ;  806789.0; 3026048.0
+PLC;lindn ;linden sq, malden - charl fells         ;      ;      ;CALC    ;Linden Sq           ;  784320.0; 2982877.0
+PLC;ltnah ;little nahant road                      ;      ;nahant;        ;                    ;  808418.0; 2983772.0
+PLC;lynn  ;Lynn Bus Garage                         ;wlynn ;      ;CALC    ;                    ;  797713.4; 2991113.9
+PLC;marbl ;marblehead - lynn                       ;      ;      ;CALC    ;                    ;  832331.0; 3010857.0
+PLC;mavck ;maverick sq, e boston - charl lynn      ;      ;      ;CALC    ;                    ;  780550.8; 2959898.9
+PLC;mavj  ;maverick to jeffries - lynn             ;      ;      ;CALC    ;                    ;  780639.9; 2959850.4
+PLC;mktsq ;market square, lynn                     ;      ;lynn  ;        ;                    ;  800535.3; 2994129.9
+PLC;mysml ;Market Basket (former Mystic Mall)      ;      ;chels ;CALC    ;                    ;  780080.0; 2969753.4
+PLC;neptw ;neptune towers                          ;      ;lynn  ;CALC    ;                    ;  803390.0; 2993373.0
+PLC;newoc ;New Ocean St/Eastern Ave                ;      ;      ;CALC    ;                    ;  811703.2; 2996042.3
+PLC;ngate ;northgate shopping ctr - lynn           ;      ;      ;CALC    ;                    ;  787427.0; 2981096.0
+PLC;nobev ;north beverly - lynn                    ;      ;      ;CALC    ;                    ;  821935.0; 3037889.0
+PLC;nshor ;northshore shpping ctr - lynn           ;      ;      ;CALC    ;                    ;  806101.1; 3023307.0
+PLC;oakvl ;oaklandvale - lynn                      ;      ;      ;CALC    ;                    ;  782961.0; 2996479.0
+PLC;orhgt ;orient heights station - lynn & blue    ;      ;boston;CALC    ;                    ;  790083.7; 2966478.0
+PLC;orhw  ;orient hts to waldemar - lynn           ;      ;      ;CALC    ;                    ;  789885.5; 2966476.9
+PLC;osbrn ;o'callaghan way & osborne st.           ;      ;      ;CALC    ;                    ;  794608.0; 2996684.0
+PLC;pebdy ;Peabody Sq., Peabody                    ;      ;peabdy;CALC    ;                    ;  810460.0; 3017213.0
+PLC;philp ;Phillips Beach, Swampscott              ;      ;      ;        ;                    ;  819650.0; 2998675.0
+PLC;pines ;point of pines                          ;      ;revere;        ;                    ;  799840.0; 2985894.0
+PLC;rcith ;revere city hall - lynn                 ;      ;      ;        ;                    ;  787538.0; 2974113.0
+PLC;salem ;salem depot                             ;      ;      ;CALC    ;                    ;  818384.4; 3016690.3
+PLC;saug  ;saugus ctr - lynn fells charl           ;      ;      ;CALC    ;Saugus Ctr          ;  788397.0; 2994786.0
+PLC;saugpl;Saugus Plaza                            ;      ;saugus;        ;                    ;  786151.2; 3003497.5
+PLC;slmct ;salem center                            ;      ;salem ;        ;                    ;  819159.0; 3015118.0
+PLC;slmhp ;salem & humphrey, swampscott - lynn     ;      ;      ;        ;                    ;  820001.0; 2999205.0
+PLC;smhsp ;salem hospitlal                         ;      ;salem ;        ;                    ;  815561.2; 3012081.7
+PLC;sqone ;sqaure one mall                         ;      ;saugus;CALC    ;                    ;  784110.5; 2992956.6
+PLC;statx ;State St Stop Express Bus               ;state ;      ;CALC    ;                    ;  775766.7; 2956132.6
+PLC;termc ;Terminal C - Logan Airport              ;      ;      ;CALC    ;                    ;  786597.0; 2959009.3
+PLC;thmrs ;Thurgood Marshall MS                    ;      ;      ;CALC    ;                    ;  810030.0; 2997284.3
+PLC;tmslw ;Tomasello Way                           ;      ;revere;        ;                    ;  791698.0; 2970972.4
+PLC;tozer ;tozer rd beverly                        ;      ;bever ;        ;                    ;  823005.0; 3032765.0
+PLC;vinsq ;vinnin square - lynn                    ;      ;      ;        ;                    ;  817688.5; 3002393.6
+PLC;waite ;waite & western ave. - lynn             ;      ;      ;        ;                    ;  806685.4; 3001894.6
+PLC;wasum ;western ave & burns sts  swing off      ;wlynn ;      ;        ;                    ;  798394.8; 2992280.3
+PLC;webst ;broadway & webster - chelsea            ;      ;      ;        ;                    ;  785187.0; 2971067.0
+PLC;weswa ;washington st @ western ave             ;      ;lynn  ;        ;                    ;  802699.0; 2996687.0
+PLC;wlynn ;Western Ave at Lynn Garage - lynn       ;      ;      ;CALC    ;                    ;  798099.8; 2991357.5
+PLC;wondw ;Wonderland West - Revere                ;      ;revere;CALC    ;Wonderland          ;  793185.8; 2976108.3
+PLC;woodi ;wood island sta. - lynn                 ;      ;      ;CALC    ;WoodIsland          ;  784961.0; 2964119.0
+PLC;wyoma ;wyoma square - lynn                     ;      ;      ;        ;                    ;  801785.0; 3002221.0

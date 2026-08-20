@@ -1,0 +1,51 @@
+PLC;airbs ;Airport Station Busway - CT Routes      ;aport ;      ;CALC    ;Airport Sta         ;  783191.5; 2961739.6
+PLC;andrw ;andrew station - albny cabot            ;      ;      ;CALC    ;Andrew              ;  775809.1; 2945558.1
+PLC;bbsta ;Back Bay Station (bus)                  ;      ;      ;CALC    ;                    ;  770773.0; 2951931.0
+PLC;blsqs ;bellingham sq - silver line             ;      ;      ;        ;                    ;  782114.1; 2969467.7
+PLC;bltal ;Blue Hill Ave. @ Talbot Ave.            ;      ;      ;        ;                    ;  767622.0; 2932806.0
+PLC;boxds ;box district - silver line              ;      ;      ;        ;                    ;  783638.6; 2969000.4
+PLC;brghm ;Brigham Circle (bus)                    ;      ;      ;        ;                    ;  762807.0; 2946912.0
+PLC;chlst ;chelsea - silver line                   ;      ;      ;CALC    ;                    ;  779889.8; 2970058.5
+PLC;conrd ;C Silver Line Way                       ;      ;      ;CALC    ;                    ;  780768.8; 2951867.3
+PLC;copst ;Copley (bus)                            ;      ;      ;CALC    ;Copley              ;  770377.8; 2952873.0
+PLC;coqui ;Columbia Rd @ Quincy St                 ;      ;      ;        ;                    ;  772417.0; 2938770.0
+PLC;cowas ;Columbia Rd @ Washington St             ;      ;      ;        ;                    ;  769625.0; 2936609.0
+PLC;crtst ;Court House Station (Silver Line)       ;      ;      ;        ;                    ;  778512.0; 2953847.0
+PLC;drdck ;Drydock Ave @ Design Center Place       ;      ;      ;CALC    ;                    ;  781624.2; 2950965.9
+PLC;dudly ;Nubian Station - cabot albny bartl      ;      ;      ;CALC    ;Nubian              ;  768663.8; 2945423.6
+PLC;esavs ;eastern ave - silver line               ;      ;      ;        ;                    ;  784793.1; 2966890.1
+PLC;esxat ;essex & atlantic ave (south station)    ;      ;      ;CALC    ;                    ;  776213.0; 2953523.0
+PLC;fhill ;Forest Hills Busway                     ;forhl ;      ;CALC    ;Forest Hills        ;  760853.5; 2934997.2
+PLC;frnpk ;franklin park - cabot bartl             ;      ;      ;CALC    ;Franklin Pk         ;  768021.3; 2935501.4
+PLC;ghall ;grove hall - bartl cabot                ;      ;      ;        ;                    ;  769049.0; 2938072.0
+PLC;heath ;Heath Street Loop                       ;      ;      ;CALC    ;                    ;  761444.8; 2945090.8
+PLC;hlong ;Huntington Ave/Longwood Ave             ;      ;      ;        ;                    ;  764254.0; 2947675.1
+PLC;hrugg ;huntington & ruggles - cabot            ;      ;      ;        ;                    ;  765489.5; 2948339.7
+PLC;hunbv ;Huntington Ave/Belvidere St             ;      ;      ;        ;                    ;  769163.8; 2951147.9
+PLC;jpctr ;JP Center (Monument)                    ;      ;      ;CALC    ;                    ;  760184.0; 2938193.0
+PLC;latac ;Warren St. @ Boston Latin Academy       ;      ;      ;CALC    ;                    ;  768905.2; 2940579.0
+PLC;louis ;Ave Louis Pasteur (Boston Latin HS)     ;      ;      ;CALC    ;Ave Louis Pasteur   ;  763665.0; 2948534.4
+PLC;matpn ;Mattapan Station                        ;      ;      ;CALC    ;                    ;  766604.9; 2922818.1
+PLC;mortn ;morton st @ blue hill ave - bartl       ;      ;      ;        ;                    ;  766713.0; 2928863.1
+PLC;nuniv ;Northeastern Univ                       ;      ;      ;        ;                    ;  767307.0; 2949311.0
+PLC;roxbs ;Roxbury Crossing Station Bus            ;      ;      ;        ;                    ;  765586.6; 2946129.3
+PLC;rugg  ;ruggles station - bartl                 ;      ;      ;CALC    ;Ruggles             ;  767298.7; 2947909.9
+PLC;shunt ;Centre St/South Huntington Ave          ;      ;      ;        ;                    ;  761159.0; 2941691.0
+PLC;soham ;Southampton Bus Garage                  ;      ;      ;CALC    ;                    ;  773843.0; 2945960.0
+PLC;sosta ;South Station - Cabot                   ;sstat ;boston;CALC    ;                    ;  776459.0; 2953774.0
+PLC;soust ;South Station (Silver Line)             ;      ;      ;CALC    ;                    ;  776367.0; 2953834.0
+PLC;templ ;Temple St. @ Tremont St. - SL           ;      ;      ;CALC    ;                    ;  774506.0; 2954837.6
+PLC;terma ;Terminal A - Logan Airport              ;      ;      ;CALC    ;                    ;  785499.5; 2958300.6
+PLC;terme ;Terminal E - Logan Airport              ;      ;      ;        ;                    ;  785787.0; 2959963.7
+PLC;trmb1 ;Terminal B Stop 1                       ;      ;      ;        ;                    ;  786160.7; 2957338.5
+PLC;trmb2 ;Terminal B Stop 2                       ;      ;      ;        ;                    ;  786488.6; 2957285.7
+PLC;trmcd ;Terminal C (formerly D)                 ;      ;      ;        ;                    ;  786598.9; 2958985.2
+PLC;tumed ;Washington St. @ Tufts Medical Cnt      ;      ;      ;        ;                    ;  774085.5; 2952792.6
+PLC;twtnn ;ted williams tunnel north portals       ;      ;      ;        ;                    ;  784584.1; 2958621.0
+PLC;twtns ;ted williams tunnel south portals       ;      ;      ;        ;                    ;  781133.8; 2951720.2
+PLC;upham ;uphams corner - cabot bartl             ;      ;      ;        ;                    ;  773727.1; 2940811.5
+PLC;warwl ;Warren St. @ Walnut Ave.                ;      ;      ;        ;                    ;  768908.0; 2943551.0
+PLC;wasma ;Massachusetts Ave @ Washington - cabot, ;      ;      ;        ;                    ;  770520.0; 2947921.0
+PLC;webrk ;Washington & E. Berkeley - cabot        ;      ;      ;        ;                    ;  773528.0; 2950662.0
+PLC;wellh ;wellington hill - bartl                 ;      ;      ;        ;                    ;  766215.0; 2926950.0
+PLC;wtcst ;World Trade Center Station (Silver Line);      ;      ;        ;                    ;  779828.2; 2952269.1

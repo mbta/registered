@@ -105,27 +105,9 @@ Print a CSV which shows new/changed stops between two ratings. This step is foun
 $ uv run python -m registered.stop_comparison <path to current Rating/Combine> <path to next Rating/Combine>
 ```
 
-## Missing/Stop Intervals
 
-Writes an HTML file showing calculated distance/direction intervals which are not in the TransitMaster database.
-
-This step is found under TM-03.06, step 2 in [TransitMaster New Rating Procedure]
-
-1. Copy .env.template to .env and fill out at least the following variables with the TransitMaster DB server information from 1Password.
-    - `TRANSITMASTER_DATABASE_SERVER`
-    - `TRANSITMASTER_UID`
-    - `TRANSITMASTER_PWD`
+## Unique Interval Changes
 
 ```
-$ uv run python -m registered.missing_intervals intervals.html
+$ uv run python -m registered.intervals.interval_changes <path to next Rating/Combine> <path to TM Change Requests> <stop changes sheet name>
 ```
-
-And then open `intervals.html` in your browser.
-
-For stop intervals:
-
-```
-$ uv run python -m registered.stop_intervals intervals.html --stop-id=32549
-```
-
-[TransitMaster New Rating Procedure]: https://github.com/mbta/wiki/blob/master/transit_tech/Procedures/TransitMaster/TM-03_Make_Updates.md

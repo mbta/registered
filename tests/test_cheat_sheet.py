@@ -136,7 +136,7 @@ Weekday 011
 Saturday 016, sa6 (BennTT, Somvl)
 Sunday 017
 
-Mon 12/21 011 DR1 ST1 *** TAKE THIS OUT
+Mon 12/21 011 *** TAKE OUT DR1 ST1
 Thu 12/24 ns1
 Fri 1/15 l31 *** TAKE THIS OUT
 Sat 1/16 016, l36 (Somvl) *** TAKE THIS OUT
@@ -166,7 +166,7 @@ Saturday 016
 Sunday 017
 
 Mon 12/21 l31 *** TAKE THIS OUT
-Tue 12/22 011 DR1 ST1 *** TAKE THIS OUT
+Tue 12/22 011 *** TAKE OUT DR1 ST1
 """
         actual = str(sheet)
 
@@ -195,7 +195,7 @@ Weekday 011
 Saturday 016
 Sunday 017
 
-Mon 12/21 011 DR1 ST1 *** TAKE THIS OUT
+Mon 12/21 011 *** TAKE OUT DR1 ST1
 Mon 12/28 - Thu 12/31 ns1
 """
         actual = str(sheet)
@@ -227,7 +227,7 @@ Weekday 011
 Saturday 016
 Sunday 017
 
-Mon 12/21 011 DR1 ST1 *** TAKE THIS OUT
+Mon 12/21 011 *** TAKE OUT DR1 ST1
 Mon 12/28 - Thu 12/31 ns1
 Mon 1/18 - Tue 1/19 ns1
 """

@@ -1,0 +1,81 @@
+VDC;1000    ;        ;Elm St. via Fellsway                                                                                
+VDC;1001    ;        ;Wellington via Fellsway                                                                             
+VDC;1010    ;        ;Malden Station via Main St.                                                                         
+VDC;1013    ;        ;Sullivan Square via Main St.                                                                        
+VDC;1014    ;        ;Sullivan Square via Salem St.                                                                       
+VDC;1018    ;        ;Winthrop St. & Brooks St. via George St.                                                            
+VDC;1040    ;        ;Malden Station via Ferry St.                                                                        
+VDC;1042    ;        ;Airport Station via Ferry Street                                                                    
+VDC;1052    ;        ;Sullivan Station via Newland St. Housing                                                            
+VDC;1053    ;        ;Malden Station via Newland St. Housing                                                              
+VDC;1060    ;        ;Lebanon Loop via Main St.                                                                           
+VDC;1063    ;        ;Wellington via Forest St. & Sylvan St.                                                              
+VDC;1080    ;        ;Linden Square via Highland Ave.                                                                     
+VDC;1081    ;        ;Wellington via Highland Ave.                                                                        
+VDC;1083    ;        ;Malden Station via Salem St.                                                                        
+VDC;1084    ;        ;Linden Square via Salem St.                                                                         
+VDC;1090    ;        ;Linden Square via Broadway                                                                          
+VDC;1093    ;        ;Harvard via Sullivan                                                                                
+VDC;1100    ;        ;Wonderland via Woodlawn                                                                             
+VDC;1101    ;        ;Wellington via Woodlawn                                                                             
+VDC;1110    ;        ;Woodlawn via Tobin                                                                                  
+VDC;1111    ;        ;Haymarket via Tobin                                                                                 
+VDC;1121    ;        ;Wellington via Admiral's Hill & Market Basket                                                       
+VDC;1123    ;        ;Wood Island via Market Basket & Admiral's Hill                                                      
+VDC;1310    ;        ;Highlands Melrose & Oak Grove                                                                       
+VDC;1311    ;        ;Malden via East Side                                                                                
+VDC;1320    ;        ;Malden Station via Oak Grove                                                                        
+VDC;1321    ;        ;Redstone & Oak Grove                                                                                
+VDC;1340    ;        ;North Woburn via Riverside Ave.                                                                     
+VDC;1343    ;        ;Wellington Station via Riverside Ave.                                                               
+VDC;1344    ;        ;Wellington Station via Veterans Senior Center                                                       
+VDC;1345    ;        ;North Woburn via Veterans Senior Center                                                             
+VDC;1347    ;        ;Winthrop St. & Brooks St. via Medford Square                                                        
+VDC;1348    ;        ;Middlesex Ave. at Second St.                                                                        
+VDC;1349    ;        ;Woburn Square via Riverside Ave.                                                                    
+VDC;1370    ;        ;Reading Depot                                                                                       
+VDC;1371    ;        ;Oak Grove                                                                                           
+VDC;1372    ;        ;Malden                                                                                              
+VDC;3541    ;        ;Boston via Woburn Square & I-93 (Express)                                                           
+VDC;3544    ;        ;Burlington via Woburn Square & I-93 (Express)                                                       
+VDC;3547    ;        ;Burlington via Medford Sq & W Cummings & Woburn Express                                             
+VDC;3548    ;        ;Boston Express via W Cummings & Medford Sq                                                          
+VDC;4110    ;        ;Malden Station via Kennedy Drive                                                                    
+VDC;4111    ;        ;Jack Satter House                                                                                   
+VDC;4112    ;        ;Malden Station via Salem                                                                            
+VDC;4113    ;        ;Kennedy Drive via Salem                                                                             
+VDC;4300    ;        ;Saugus Center via Square One Mall                                                                   
+VDC;4301    ;        ;Malden Station                                                                                      
+VDC;4304    ;        ;Saugus Center                                                                                       
+VDC;4305    ;        ;Square One Mall                                                                                     
+VDC;4308    ;        ;Malden Station via Square One Mall                                                                  
+VDC;890     ;        ;Clarendon Hill via Broadway                                                                         
+VDC;891     ;        ;Sullivan Station via Broadway                                                                       
+VDC;893     ;        ;Davis Square via Broadway                                                                           
+VDC;906     ;        ;Davis Square via Assembly & Sullivan                                                                
+VDC;907     ;        ;Assembly                                                                                            
+VDC;910     ;        ;Sullivan                                                                                            
+VDC;914     ;        ;Central                                                                                             
+VDC;921     ;        ;Downtown via Main St.                                                                               
+VDC;922     ;        ;Haymarket Square via Main St.                                                                       
+VDC;923     ;        ;Sullivan Station via Main St.                                                                       
+VDC;930     ;        ;Sullivan via Bunker Hill                                                                            
+VDC;931     ;        ;Sullivan via Navy Yard                                                                              
+VDC;933     ;        ;Haymarket via Bunker Hill                                                                           
+VDC;935     ;        ;Downtown via Navy Yard                                                                              
+VDC;940     ;        ;Medford Square via West Medford                                                                     
+VDC;941     ;        ;Davis Square Station via West Medford                                                               
+VDC;950     ;        ;West Medford via Mystic                                                                             
+VDC;951     ;        ;Sullivan Station via Mystic                                                                         
+VDC;953     ;        ;West Medford via High St.                                                                           
+VDC;954     ;        ;Fellsway Garage via Winthrop                                                                        
+VDC;955     ;        ;Winthrop St. & Brooks St. via Medford Square                                                        
+VDC;956     ;        ;Arlington Ctr                                                                                       
+VDC;960     ;        ;Medford Square via Davis Square                                                                     
+VDC;961     ;        ;Harvard Station via Davis Square                                                                    
+VDC;972     ;        ;Wellington Station via Hancock St. & Gateway Center                                                 
+VDC;974     ;        ;Malden Station via Gateway Center & Hancock St.                                                     
+VDC;990     ;        ;Woodland Rd via Malden Station                                                                      
+VDC;991     ;        ;Wellington Station via Malden Station                                                               
+VDC;994     ;        ;Woodland Rd via Gateway Center & Malden Station                                                     
+VDC;9950    ;        ;Wellington via Gateway Center                                                                       

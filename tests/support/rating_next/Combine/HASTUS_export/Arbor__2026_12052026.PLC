@@ -1,0 +1,101 @@
+PLC;arbor ;Arborway Bus Garage                     ;      ;      ;CALC    ;                    ;  761104.0; 2935307.0
+PLC;ashmt ;Ashmont Station                         ;ashmn ;boston;CALC    ;                    ;  774192.6; 2928863.5
+PLC;baker ;baker & vermont sts - bartl             ;      ;      ;CALC    ;                    ;  745527.0; 2928762.0
+PLC;belco ;Belgrade & Corinth Sts (Roslindale Sq)  ;      ;      ;CALC    ;                    ;  756034.3; 2929722.8
+PLC;bhdud ;Blue Hill Ave @ Dudley St.              ;      ;      ;        ;                    ;  771003.0; 2943792.0
+PLC;bltal ;Blue Hill Ave. @ Talbot Ave.            ;      ;      ;        ;                    ;  767622.0; 2932806.0
+PLC;bocnh ;Boylston @ Chestnut Hill Ave            ;      ;      ;        ;                    ;  752822.0; 2944197.0
+PLC;brghm ;Brigham Circle (bus)                    ;      ;      ;        ;                    ;  762807.0; 2946912.0
+PLC;cancr ;canton center                           ;      ;      ;        ;                    ;  752264.4; 2882344.3
+PLC;canjs ;Canton Junction Station Bus             ;      ;      ;        ;                    ;  750166.0; 2884741.0
+PLC;cloop ;charles river loop - bartl              ;      ;      ;CALC    ;                    ;  744853.0; 2924108.0
+PLC;clsq  ;cleary square - bartl inspectors        ;      ;      ;CALC    ;                    ;  757955.0; 2918508.0
+PLC;cmaml ;Cummins Hwy @ American Legion Hwy       ;      ;      ;        ;                    ;  760313.0; 2926519.0
+PLC;cmhwy ;Cummins Highway                         ;      ;boston;        ;                    ;  756987.0; 2929869.0
+PLC;codmn ;codman square - cabot                   ;      ;      ;        ;                    ;  772108.0; 2931049.0
+PLC;coldt ;Columbia Rd @ Dorchester Ave.           ;      ;      ;        ;                    ;  775990.0; 2942176.0
+PLC;ctrwe ;centre st @ weld st                     ;      ;boston;        ;                    ;  754663.0; 2932513.0
+PLC;dedsq ;dedham square - bartl                   ;      ;      ;        ;                    ;  744591.0; 2915548.0
+PLC;dhgrt ;Dedham Pkwy @ Georgetown Drive          ;      ;      ;        ;                    ;  752779.0; 2918203.0
+PLC;dline ;dedham line, wash st - bartl            ;      ;      ;CALC    ;                    ;  746915.2; 2918243.9
+PLC;dmall ;dedham mall - bartl                     ;      ;      ;CALC    ;                    ;  745835.8; 2918233.2
+PLC;dotga ;Dorchester Ave @ Galivan Blvd           ;      ;      ;        ;                    ;  773626.0; 2927277.0
+PLC;dudly ;Nubian Station - cabot albny bartl      ;      ;      ;CALC    ;Nubian              ;  768663.8; 2945423.6
+PLC;edevt ;Edward Everett Square Columbia @ Mass Av;      ;      ;        ;                    ;  774737.0; 2942052.0
+PLC;egles ;egleston sq. - bartl cabot              ;      ;      ;        ;                    ;  764894.0; 2940494.0
+PLC;ewalp ;e. walpole - bartl                      ;      ;      ;CALC    ;                    ;  733068.0; 2883887.0
+PLC;fahsp ;centre st @ faulkner hospital           ;      ;boston;        ;                    ;  756998.0; 2934846.5
+PLC;fgpbs ;Forge Park Bus                          ;      ;      ;        ;                    ;  672722.0; 2857794.3
+PLC;fhill ;Forest Hills Busway                     ;forhl ;      ;CALC    ;Forest Hills        ;  760853.5; 2934997.2
+PLC;field ;franklin field housing - bartl          ;      ;      ;        ;                    ;  768868.0; 2930942.0
+PLC;frkbs ;Franklin Station Bus                    ;      ;      ;        ;                    ;  683916.4; 2855076.7
+PLC;frnpk ;franklin park - cabot bartl             ;      ;      ;CALC    ;Franklin Pk         ;  768021.3; 2935501.4
+PLC;galli ;Gallivan Blvd @ Washington Street       ;      ;      ;CALC    ;                    ;  772656.0; 2926990.0
+PLC;ghall ;grove hall - bartl cabot                ;      ;      ;        ;                    ;  769049.0; 2938072.0
+PLC;green ;greenwood & hyde park - bartl           ;      ;      ;        ;                    ;  758731.0; 2922226.0
+PLC;gtown ;georgetowne - bartl                     ;      ;      ;CALC    ;                    ;  752301.9; 2918138.6
+PLC;guild ;guild st, norwood - bartl               ;      ;      ;        ;                    ;  736818.5; 2894912.1
+PLC;hayms ;haymarket - cabot albny lynn fells charl;      ;      ;CALC    ;Haymarket           ;  775574.8; 2957688.8
+PLC;heath ;Heath Street Loop                       ;      ;      ;CALC    ;                    ;  761444.8; 2945090.8
+PLC;hlong ;Huntington Ave/Longwood Ave             ;      ;      ;        ;                    ;  764254.0; 2947675.1
+PLC;hpaml ;hyde park ave @ american legion hwy     ;      ;      ;        ;                    ;  758955.0; 2924482.0
+PLC;hpave ;hyde park ave @ cummins - bartl         ;      ;      ;        ;                    ;  759238.0; 2927244.0
+PLC;hrugg ;huntington & ruggles - cabot            ;      ;      ;        ;                    ;  765489.5; 2948339.7
+PLC;indwr ;Industrial Park W Roxbury near VA riverm;      ;      ;CALC    ;                    ;  743698.2; 2926766.8
+PLC;islng ;islington P.O. - arborwy                ;      ;      ;        ;                    ;  740689.7; 2904949.2
+PLC;jasst ;jackson sq.sta. - cabot bartl           ;jaksn ;      ;CALC    ;                    ;  764304.1; 2942985.0
+PLC;jfk   ;JFK/UMass Busway                        ;      ;      ;CALC    ;                    ;  777418.8; 2942169.4
+PLC;jpctr ;JP Center (Monument)                    ;      ;      ;CALC    ;                    ;  760184.0; 2938193.0
+PLC;LaCor ;LaGrange & Corey Streets                ;      ;      ;CALC    ;                    ;  745477.3; 2934689.1
+PLC;latac ;Warren St. @ Boston Latin Academy       ;      ;      ;CALC    ;                    ;  768905.2; 2940579.0
+PLC;logan ;logan square, h.p. - bartl              ;      ;      ;CALC    ;                    ;  759014.4; 2917989.4
+PLC;louis ;Ave Louis Pasteur (Boston Latin HS)     ;      ;      ;CALC    ;Ave Louis Pasteur   ;  763665.0; 2948534.4
+PLC;mass  ;mass ave and huntington ave - bartl     ;symph ;boston;        ;                    ;  768132.1; 2949932.3
+PLC;matpn ;Mattapan Station                        ;      ;      ;CALC    ;                    ;  766604.9; 2922818.1
+PLC;mglen ;main st @ glenwood st                   ;      ;walpol;CALC    ;                    ;  723235.5; 2878434.9
+PLC;miltn ;river and milton sts - bartl            ;      ;      ;CALC    ;                    ;  751548.0; 2913484.0
+PLC;morse ;washington @ morse                      ;      ;norwd ;        ;                    ;  734915.0; 2887633.0
+PLC;mort  ;morton @ gallivan - bartl               ;      ;      ;CALC    ;                    ;  769849.0; 2926865.0
+PLC;mortn ;morton st @ blue hill ave - bartl       ;      ;      ;        ;                    ;  766713.0; 2928863.1
+PLC;mpark ;millennium park                         ;      ;      ;CALC    ;                    ;  743564.7; 2927598.1
+PLC;mtalv ;Mt Alvernia Academy                     ;      ;      ;        ;                    ;  739360.0; 2949612.0
+PLC;newct ;newton centre - bartl                   ;      ;      ;        ;                    ;  738636.0; 2945411.0
+PLC;nfkbs ;Norfolk Station Bus                     ;      ;      ;        ;                    ;  703902.0; 2868660.1
+PLC;nwcor ;Newton Corner (bus)                     ;      ;      ;CALC    ;                    ;  741177.0; 2955346.0
+PLC;oak   ;oak hill, newton - bartl                ;      ;      ;        ;                    ;  741481.0; 2933775.0
+PLC;pierc ;pierce square - bartl                   ;      ;      ;        ;                    ;  773109.0; 2924688.0
+PLC;pktrm ;park & tremont sts. - bartl cabot       ;      ;      ;CALC    ;Park & Tremont      ;  774257.5; 2954925.3
+PLC;pkwy  ;w. roxbury parkway @ centre - bartl     ;      ;      ;CALC    ;                    ;  751489.3; 2929916.4
+PLC;pomet ;poplar st @ metropolitan ave            ;      ;boston;        ;                    ;  757482.0; 2925732.0
+PLC;prkwl ;Parker St @ Wheeler                     ;      ;newton;        ;                    ;  738232.0; 2938863.0
+PLC;readv ;readville station                       ;      ;      ;        ;                    ;  755814.0; 2912377.0
+PLC;resbu ;reservoir busway - bartl                ;      ;      ;CALC    ;Reservoir           ;  750980.9; 2947328.0
+PLC;rivcm ;River Street @ Cummins Highway          ;      ;      ;        ;                    ;  766129.0; 2922822.0
+PLC;rossq ;roslindale square - bartl albny         ;      ;      ;        ;                    ;  756671.0; 2929581.0
+PLC;rvcen ;River Street @ Central Avenue           ;      ;      ;        ;                    ;  771251.0; 2924203.0
+PLC;sbpfd ;Sawmill Brook Pkwy                      ;      ;newton;        ;                    ;  741741.6; 2931754.2
+PLC;shosp ;shattuck hospital - bartl               ;      ;      ;        ;                    ;  763603.0; 2934090.0
+PLC;shunt ;Centre St/South Huntington Ave          ;      ;      ;        ;                    ;  761159.0; 2941691.0
+PLC;south ;grove & south sts - bartl               ;      ;      ;        ;                    ;  750212.0; 2935451.0
+PLC;sring ;spring st @ centre st - bartl           ;      ;      ;        ;                    ;  748147.0; 2926539.0
+PLC;stims ;stimson st @ wash st - bartl            ;      ;      ;CALC    ;                    ;  749021.0; 2920446.0
+PLC;stjim ;St James Ave @ Dartmouth Sts            ;      ;      ;CALC    ;                    ;  770509.0; 2952573.0
+PLC;stobs ;stoughton station bus                   ;      ;      ;        ;                    ;  763495.9; 2870951.0
+PLC;svrhm ;seaver & humboldt - cabot               ;      ;      ;        ;                    ;  766536.0; 2938193.0
+PLC;towhm ;townsend st @ humbolt ave (latin acad)  ;      ;boston;CALC    ;                    ;  767969.0; 2940814.0
+PLC;upham ;uphams corner - cabot bartl             ;      ;      ;        ;                    ;  773727.1; 2940811.5
+PLC;vaded ;V.A. Hospital, Dedham - Bartl           ;      ;      ;CALC    ;                    ;  744942.6; 2925609.7
+PLC;vfcor ;vfw pkwy @ corey st                     ;      ;boston;        ;                    ;  747442.0; 2932149.0
+PLC;wakav ;wakefield ave - bartl                   ;      ;      ;CALC    ;                    ;  757399.8; 2913746.5
+PLC;walag ;Washington St. @ Lagrange St.           ;      ;      ;        ;                    ;  752580.0; 2924617.0
+PLC;wamet ;Washington St. @ Metropolitan Ave.      ;      ;      ;        ;                    ;  755327.0; 2927716.0
+PLC;warrd ;Washington St. @ Railroad Ave.          ;      ;      ;        ;Norwood Center      ;  737643.0; 2896662.0
+PLC;wasgr ;Washington St. @ Green St.              ;      ;      ;        ;                    ;  763113.0; 2938002.0
+PLC;wawbw ;Washington St @ W. Boundary Rd.         ;      ;      ;        ;                    ;  751034.0; 2922845.0
+PLC;wdfst ;west @ deforest st                      ;      ;boston;        ;                    ;  756691.0; 2921965.0
+PLC;wellh ;wellington hill - bartl                 ;      ;      ;        ;                    ;  766215.0; 2926950.0
+PLC;westh ;Westinghouse Industrial area            ;      ;      ;        ;                    ;  755826.0; 2913940.0
+PLC;wolsq ;wollcott square - bartl                 ;      ;      ;CALC    ;                    ;  755813.0; 2911682.0
+PLC;wren  ;wren st - bartl                         ;      ;      ;CALC    ;                    ;  751352.8; 2926869.5
+PLC;wrox  ;W.Roxbury-Centre & Lagrange - bartl     ;      ;      ;        ;                    ;  748683.4; 2927701.9
+PLC;wtryd ;watertown yard - bartl cabot            ;      ;      ;CALC    ;Watertown           ;  741115.3; 2957882.1

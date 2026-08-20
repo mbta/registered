@@ -8,6 +8,26 @@ from registered.rating import Rating
 from registered.parser import CalendarDate
 
 
+def calculate_garage_bases(garages, services, day_types, day_type):
+    """
+    Find the most commonly used service for all garages for a given day type: 
+    (Weekday, Saturday, Sunday).
+    """
+    dates = {date for date in day_types if day_types[date] == day_type}
+    garage_bases = {}
+
+    for garage in garages:
+        base = max(
+            services.values(),
+            key=lambda schedule, g=garage: sum(
+                1
+                for date in dates
+                if services[(date, g)] == schedule
+            ),
+        )
+        garage_bases[garage] = base
+    return garage_bases
+
 def calendar(rating):
     """
     Generate the calendar for a given rating.
@@ -16,6 +36,7 @@ def calendar(rating):
     garages = set()
     dates = set()
     services = {}
+    day_types = {}
     for record in cal:
         if not isinstance(record, CalendarDate):
             continue
@@ -23,16 +44,21 @@ def calendar(rating):
         dates.add(record.date)
         key = (record.date, record.garage)
         services[key] = record.service_key
+        day_types[record.date] = record.day_type
 
     garages = sorted(garages)
-
+    weekday_bases = calculate_garage_bases(garages, services, day_types, "Weekday")
     yield ["date", *garages]
 
     for date in sorted(dates):
         date_str = date.strftime("%Y-%m-%d")
-        garage_values = (services.get((date, garage), "") for garage in garages)
+        garage_values = (
+            weekday_bases.get(garage, "")
+            if services.get((date, garage), "") == "l31"
+            else services.get((date, garage), "")
+            for garage in garages
+        )
         yield [date_str, *garage_values]
-
 
 def main_combine(path, file=sys.stdout):
     """

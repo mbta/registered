@@ -30,7 +30,7 @@ MERGE_DIRECTORIES = [
     "SohamDR",
 ]
 
-MERGE_EXTENSIONS = ["nde", "plc", "rte", "trp", "pat", "ppat", "blk", "crw", "cal"]
+MERGE_EXTENSIONS = ["nde", "plc", "rte", "trp", "pat", "ppat", "blk", "crw", "cal", "net", "netextra"]
 
 
 def rename_timepoint(data):

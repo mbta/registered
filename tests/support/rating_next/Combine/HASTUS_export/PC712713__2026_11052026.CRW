@@ -1,0 +1,50 @@
+CSC;app36016;Saturday  ; 5;01;PRIV20263 ;PC712713;(712/713) Winthrop Saturday                                                     
+PCE;199-0201 ;  16118148;6      ;   7208798;    1;prwb  ;0450a;prwb  ;0450a;prwb  ;1205p;prwb  ;1205p;016;;
+PCE;199-0202 ;  16118149;6      ;   7208799;    1;prwb  ;0605a;prwb  ;0605a;prwb  ;1237p;prwb  ;1237p;016;;
+PCE;199-0203 ;  16118152;6      ;   7208802;    1;prwb  ;1140a;prwb  ;1140a;prwb  ;0651p;prwb  ;0651p;016;;
+PCE;199-0204 ;  16118151;6      ;   7208801;    1;prwb  ;1210p;prwb  ;1210p;prwb  ;0717p;prwb  ;0717p;016;;
+PCE;199-0205 ;  16118153;6      ;   7208803;    1;prwb  ;0625p;prwb  ;0625p;prwb  ;0103x;prwb  ;0103x;016;;
+PCE;199-0206 ;  16118150;6      ;   7208800;    1;prwb  ;0650p;prwb  ;0650p;prwb  ;0147x;prwb  ;0147x;016;;
+CSC;app36021;Weekday   ; 0;01;PRIV20263 ;PC712713;(712/713) Winthrop Weekday                                                      
+PCE;199-0101 ;  16195408;12345  ;   7224443;    1;prwb  ;0505a;prwb  ;0505a;prwb  ;0913a;prwb  ;0913a;021;;
+PCE;199-0102 ;  16195405;12345  ;   7224441;    1;prwb  ;0420a;prwb  ;0420a;prwb  ;0920a;prwb  ;0920a;021;;
+PCE;199-0103 ;  16195407;12345  ;   7224442;    1;prwb  ;0450a;prwb  ;0450a;prwb  ;0949a;prwb  ;0949a;021;;
+PCE;199-0104 ;  16195406;12345  ;   7224445;    1;prwb  ;0725a;prwb  ;0725a;prwb  ;1229p;prwb  ;1229p;021;;
+PCE;199-0105 ;  16195412;12345  ;   7224449;    1;prwb  ;0855a;prwb  ;0855a;prwb  ;0229p;prwb  ;0229p;021;;
+PCE;199-0106 ;  16195413;12345  ;   7224447;    1;prwb  ;0925a;prwb  ;0925a;prwb  ;0304p;prwb  ;0304p;021;;
+PCE;199-0107 ;  16195411;12345  ;   7224452;    1;prwb  ;1210p;prwb  ;1210p;prwb  ;0507p;prwb  ;0507p;021;;
+PCE;199-0108 ;  16195404;12345  ;   7224444;    1;prwb  ;0425p;prwb  ;0425p;prwb  ;0638p;prwb  ;0638p;021;;
+PCE;199-0109 ;  16195414;12345  ;   7224450;    1;prwb  ;0210p;prwb  ;0210p;prwb  ;0654p;prwb  ;0654p;021;;
+PCE;199-0110 ;  16195415;12345  ;   7224446;    1;prwb  ;0240p;prwb  ;0240p;prwb  ;0759p;prwb  ;0759p;021;;
+PCE;199-0111 ;  16195410;12345  ;   7224448;    1;prwb  ;0623p;prwb  ;0623p;prwb  ;1034p;prwb  ;1034p;021;;
+PCE;199-0112 ;  16195409;12345  ;   7224451;    1;prwb  ;0455p;prwb  ;0455p;prwb  ;1043p;prwb  ;1043p;021;;
+PCE;199-0113 ;  16195416;12345  ;   7224453;    1;prwb  ;0740p;prwb  ;0740p;prwb  ;0127x;prwb  ;0127x;021;;
+CSC;app36027;Sunday    ; 6;01;PRIV20263 ;PC712713;(712/713) Winthrop Sunday                                                       
+PCE;199-0301 ;  16195109;7      ;   7223468;    1;prwb  ;0550a;prwb  ;0550a;prwb  ;0113p;prwb  ;0113p;027;;
+PCE;199-0302 ;  16195110;7      ;   7223469;    1;prwb  ;1246p;prwb  ;1246p;prwb  ;0806p;prwb  ;0806p;027;;
+PCE;199-0303 ;  16195111;7      ;   7223470;    1;prwb  ;0740p;prwb  ;0740p;prwb  ;0147x;prwb  ;0147x;027;;
+CSC;app36hl6;Saturday  ; 5;01;PRIV20263 ;PC712713;(712/713) Winthrop Saturday Holiday (Copy of Saturday)                          
+PCE;199-0210 ;  16198767;6      ;   7225727;    1;prwb  ;0450a;prwb  ;0450a;prwb  ;1205p;prwb  ;1205p;hl6;;
+PCE;199-0211 ;  16198768;6      ;   7225728;    1;prwb  ;0605a;prwb  ;0605a;prwb  ;1237p;prwb  ;1237p;hl6;;
+PCE;199-0212 ;  16198771;6      ;   7225731;    1;prwb  ;1140a;prwb  ;1140a;prwb  ;0651p;prwb  ;0651p;hl6;;
+PCE;199-0213 ;  16198770;6      ;   7225730;    1;prwb  ;1210p;prwb  ;1210p;prwb  ;0717p;prwb  ;0717p;hl6;;
+PCE;199-0214 ;  16198772;6      ;   7225732;    1;prwb  ;0625p;prwb  ;0625p;prwb  ;0103x;prwb  ;0103x;hl6;;
+PCE;199-0215 ;  16198769;6      ;   7225729;    1;prwb  ;0650p;prwb  ;0650p;prwb  ;0147x;prwb  ;0147x;hl6;;
+CSC;app36j47;Sunday    ; 6;01;PRIV20263 ;PC712713;(712/713) Winthrop July 4th Copy of Sunday                                      
+PCE;199-0304 ;  16198824;7      ;   7225734;    1;prwb  ;0550a;prwb  ;0550a;prwb  ;0113p;prwb  ;0113p;j47;;
+PCE;199-0305 ;  16198825;7      ;   7225735;    1;prwb  ;1246p;prwb  ;1246p;prwb  ;0806p;prwb  ;0806p;j47;;
+PCE;199-0306 ;  16198826;7      ;   7225736;    1;prwb  ;0740p;prwb  ;0740p;prwb  ;0147x;prwb  ;0147x;j47;;
+CSC;app36sp6;Saturday  ; 5;01;PRIV20263 ;PC712713;(712/713) Sail Boston                                                           
+PCE;199-0220 ;  16199034;6      ;   7225779;    1;prwb  ;0450a;prwb  ;0450a;prwb  ;0920a;prwb  ;0920a;sp6;;
+PCE;199-0221 ;  16199031;6      ;   7225782;    1;prwb  ;0610a;prwb  ;0610a;prwb  ;1033a;prwb  ;1033a;sp6;;
+PCE;199-0222 ;  16199032;6      ;   7225786;    1;prwb  ;0730a;prwb  ;0730a;prwb  ;1148a;prwb  ;1148a;sp6;;
+PCE;199-0223 ;  16199033;6      ;   7225790;    1;prwb  ;0740a;prwb  ;0740a;prwb  ;0103p;prwb  ;0103p;sp6;;
+PCE;199-0224 ;  16199042;6      ;   7225780;    1;prwb  ;0900a;prwb  ;0900a;prwb  ;0146p;prwb  ;0146p;sp6;;
+PCE;199-0225 ;  16199040;6      ;   7225783;    1;prwb  ;1015a;prwb  ;1015a;prwb  ;0301p;prwb  ;0301p;sp6;;
+PCE;199-0226 ;  16199038;6      ;   7225787;    1;prwb  ;1130a;prwb  ;1130a;prwb  ;0416p;prwb  ;0416p;sp6;;
+PCE;199-0227 ;  16199036;6      ;   7225791;    1;prwb  ;1245p;prwb  ;1245p;prwb  ;0608p;prwb  ;0608p;sp6;;
+PCE;199-0228 ;  16199041;6      ;   7225781;    1;prwb  ;0140p;prwb  ;0140p;prwb  ;0619p;prwb  ;0619p;sp6;;
+PCE;199-0229 ;  16199043;6      ;   7225784;    1;prwb  ;0255p;prwb  ;0255p;prwb  ;0728p;prwb  ;0728p;sp6;;
+PCE;199-0230 ;  16199039;6      ;   7225788;    1;prwb  ;0410p;prwb  ;0410p;prwb  ;0858p;prwb  ;0858p;sp6;;
+PCE;199-0231 ;  16199037;6      ;   7225785;    1;prwb  ;0710p;prwb  ;0710p;prwb  ;1258x;prwb  ;1258x;sp6;;
+PCE;199-0232 ;  16199035;6      ;   7225789;    1;prwb  ;0840p;prwb  ;0840p;prwb  ;0126x;prwb  ;0126x;sp6;;

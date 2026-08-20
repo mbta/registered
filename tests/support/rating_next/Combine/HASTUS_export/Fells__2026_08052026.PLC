@@ -1,0 +1,113 @@
+PLC;400cp ;400 west cummings park                  ;      ;woburn;        ;                    ;  756908.0; 3006406.7
+PLC;admhl ;admiral's hill @ commandants way        ;      ;chels ;        ;                    ;  778409.0; 2968170.0
+PLC;airbs ;Airport Station Busway - CT Routes      ;aport ;      ;CALC    ;Airport Sta         ;  783191.5; 2961739.6
+PLC;amall ;Assembly Mall & Row                     ;      ;      ;CALC    ;                    ;  769355.9; 2969053.0
+PLC;arlct ;arlington center - somvl                ;      ;      ;CALC    ;ArlingtonCtr        ;  750351.4; 2976307.0
+PLC;bally ;Harvard Station Busway                  ;      ;      ;CALC    ;Harvard             ;  758574.8; 2961416.4
+PLC;bdoin ;bowdoin st. - charl fells               ;      ;      ;        ;                    ;  777225.0; 2981382.0
+PLC;bell  ;bell circle - revere                    ;      ;revere;        ;                    ;  791132.0; 2974680.0
+PLC;belsq ;bellingham sq, chelsea - lynn charl     ;      ;      ;CALC    ;                    ;  782007.0; 2968436.0
+PLC;bennt ;Bennett Alley Layover Location          ;      ;camb  ;        ;Bennett Alley       ;  758251.9; 2961124.0
+PLC;boshi ;boston st @ high st                     ;      ;medfrd;        ;                    ;  754225.0; 2978716.0
+PLC;bowin ;boston st @ winthrop st                 ;      ;medfrd;        ;                    ;  758305.0; 2975225.0
+PLC;brwcr ;broadway @ cross st                     ;      ;somer ;        ;                    ;  768017.0; 2966916.0
+PLC;brypl ;broadway plaza @ broadway               ;      ;malden;        ;                    ;  779756.0; 2980157.0
+PLC;burlc ;burlington center                       ;      ;burl  ;        ;                    ;  738179.0; 3009199.0
+PLC;bwcen ;broadway & central, revere - lynn       ;      ;      ;CALC    ;                    ;  787928.0; 2974964.0
+PLC;bwybc ;Broadway & Beacon                       ;      ;      ;        ;                    ;  779920.0; 2966910.0
+PLC;bwysq ;broadway sq @ salem st                  ;      ;malden;        ;                    ;  780477.0; 2983543.0
+PLC;cacom ;causway st/commercial st                ;      ;boston;        ;                    ;  775427.0; 2959178.0
+PLC;chnut ;chestnut ave (burlington) - somvl       ;      ;      ;CALC    ;                    ;  733997.0; 3014448.0
+PLC;clarh ;clarendon hill - charl somvl            ;      ;      ;CALC    ;                    ;  755441.4; 2973293.7
+PLC;clift ;cliftondale sq, saugus - lynn           ;      ;      ;        ;                    ;  788515.0; 2988875.0
+PLC;cntsq ;central sq. camb albny/cabot somvl      ;      ;      ;CALC    ;Central Sq          ;  763219.4; 2958351.4
+PLC;compk ;common park - melrose                   ;      ;mrose ;        ;                    ;  777056.0; 2991329.0
+PLC;ctysq ;city sq. - somvl charl                  ;      ;      ;        ;                    ;  774641.0; 2960889.0
+PLC;davis ;davis square                            ;      ;      ;CALC    ;Davis               ;  758179.6; 2969805.2
+PLC;elm   ;elm & fells - fells                     ;      ;      ;CALC    ;Elm St              ;  763597.0; 2984230.0
+PLC;evrtc ;everett square - charl                  ;      ;      ;        ;                    ;  776225.0; 2973668.0
+PLC;fell  ;F fells garage - fells                  ;      ;      ;CALC    ;Fellsway Garage     ;  766728.8; 2979402.9
+PLC;fells ;Front of fellsway garage on street      ;fell  ;      ;CALC    ;                    ;  766604.7; 2979529.8
+PLC;felwy ;Fellsway at Salem and Pleasant          ;fell  ;      ;        ;                    ;  766916.0; 2979822.0
+PLC;fercr ;ferry st @ cross St                     ;      ;malden;        ;                    ;  775317.0; 2979015.0
+PLC;feriv ;fells&riverside - charl fells           ;      ;      ;        ;                    ;  768385.0; 2974580.0
+PLC;fklin ;franklin sq. - charl fells              ;      ;      ;        ;                    ;  774508.0; 2995471.0
+PLC;focor ;four corners woburn                     ;      ;woburn;        ;                    ;  742911.0; 2995723.0
+PLC;garfi ;Garfield Ave & Clyde                    ;      ;      ;        ;                    ;  783226.0; 2973389.0
+PLC;glndl ;glendale square - charl                 ;      ;      ;        ;                    ;  778154.0; 2976629.0
+PLC;glnpk ;elm st @ ferry st- glendale park        ;      ;evrt  ;        ;                    ;  778964.3; 2975710.8
+PLC;glrdg ;glen ridge nursing home                 ;      ;malden;        ;                    ;  767512.0; 2981559.0
+PLC;grana ;Kennedy Dr (Granada) - charl fells      ;      ;      ;CALC    ;                    ;  782867.0; 2984743.0
+PLC;grnwd ;greenwood sq commuter rail              ;      ;wakfld;        ;                    ;  773169.0; 3001136.0
+PLC;harsq ;harvard square                          ;      ;      ;CALC    ;Harv Dawes          ;  759097.0; 2961399.0
+PLC;hayms ;haymarket - cabot albny lynn fells charl;      ;      ;CALC    ;Haymarket           ;  775574.8; 2957688.8
+PLC;hihar ;high st @ harvard ave medfd             ;      ;medfrd;        ;                    ;  755007.1; 2978797.4
+PLC;hloop ;cambridge common loop - bentt           ;      ;      ;CALC    ;                    ;  758602.0; 2962954.0
+PLC;hlscl ;highland ave @ school st (somerville hs);      ;somer ;CALC    ;                    ;  764580.0; 2966257.0
+PLC;inman ;Inman Sq - Somerville/Chas              ;      ;      ;        ;                    ;  764035.0; 2961459.0
+PLC;leban ;lebanon st - charl fells                ;      ;      ;CALC    ;Lebanon St          ;  777863.0; 2986294.0
+PLC;lindn ;linden sq, malden - charl fells         ;      ;      ;CALC    ;Linden Sq           ;  784320.0; 2982877.0
+PLC;malst ;malden ctr station - fells charls       ;      ;      ;CALC    ;Malden Sta          ;  771192.9; 2980771.4
+PLC;mdgln ;meadow glen mall - locust @ riverside   ;      ;medfrd;        ;                    ;  766242.6; 2974149.2
+PLC;mdlsc ;middlesex @ second sts., medford        ;      ;medfrd;CALC    ;                    ;  769820.0; 2975282.0
+PLC;medfd ;medford square - fells                  ;      ;      ;CALC    ;MedfordSq           ;  762205.0; 2977606.0
+PLC;mfdmn ;medford st @ main st                    ;      ;malden;        ;                    ;  773499.0; 2977708.0
+PLC;mgrov ;main & grove - fells                    ;      ;      ;        ;                    ;  773164.0; 2990444.0
+PLC;milk  ;milk and devonshire st                  ;      ;      ;CALC    ;                    ;  775803.6; 2955380.8
+PLC;mnbnk ;Main St. @ Bunker Hill St.              ;      ;boston;        ;                    ;  771863.0; 2965047.0
+PLC;mncrs ;main st @ cross st                      ;      ;malden;        ;                    ;  773479.0; 2977882.0
+PLC;mngrg ;Main St. @ George St., Medford          ;      ;medfrd;        ;                    ;  761321.0; 2975422.0
+PLC;mnhen ;Main St. @ Henry St., Medford           ;      ;medfrd;CALC    ;                    ;  764306.0; 2970009.0
+PLC;mntvl ;montvale & i-93                         ;      ;woburn;        ;                    ;  759401.0; 3000096.0
+PLC;mport ;main & porter - fells                   ;      ;      ;        ;                    ;  774314.0; 2993228.0
+PLC;mrose ;melrose highlands - fells               ;      ;      ;CALC    ;                    ;  770904.0; 2995897.0
+PLC;mwood ;Maplewood Square                        ;      ;      ;        ;                    ;  778694.0; 2983363.0
+PLC;mysml ;Market Basket (former Mystic Mall)      ;      ;chels ;CALC    ;                    ;  780080.0; 2969753.4
+PLC;navyy ;Navy Yard Charlestown                   ;      ;      ;        ;                    ;  776338.0; 2961983.0
+PLC;nbway ;north broadway,malden - charl fells     ;      ;      ;        ;                    ;  781160.0; 2984600.0
+PLC;ngate ;northgate shopping ctr - lynn           ;      ;      ;CALC    ;                    ;  787427.0; 2981096.0
+PLC;nostr ;north street - somvl                    ;      ;      ;        ;                    ;  757221.0; 2976178.0
+PLC;nwobn ;north woburn - fells charl              ;      ;      ;CALC    ;N Woburn            ;  748313.0; 3014532.0
+PLC;okgrv ;oak grove station - charl fells         ;      ;      ;CALC    ;                    ;  772107.1; 2984500.9
+PLC;plast ;playstead rd. - fells                   ;      ;      ;CALC    ;PlaysteadRd         ;  755765.0; 2982607.0
+PLC;plsmn ;pleasant st @ main st                   ;      ;malden;        ;                    ;  772937.9; 2980633.9
+PLC;portr ;porter square                           ;      ;      ;        ;                    ;  759032.0; 2966825.4
+PLC;powdr ;powder house - somer charl fells        ;      ;      ;        ;                    ;  759691.0; 2971456.0
+PLC;rdstn ;Redstone Shopping Plaza                 ;      ;      ;CALC    ;Redstone Plaza      ;  763055.4; 3005670.8
+PLC;readc ;reading crr depot - charl               ;      ;      ;CALC    ;                    ;  761994.0; 3015305.0
+PLC;revhs ;revere house - lynn charl fells         ;      ;      ;CALC    ;Revr House          ;  794967.0; 2980420.0
+PLC;rosec ;roosevelt circle  (Route 100.1)         ;      ;      ;CALC    ;                    ;  763113.0; 2981861.0
+PLC;ruthf ;Rutherford Ave & ramp                   ;      ;      ;        ;                    ;  774012.0; 2960789.0
+PLC;saspr ;Salem St. @ Sprague St.                 ;      ;malden;CALC    ;                    ;  773708.0; 2981207.0
+PLC;saug  ;saugus ctr - lynn fells charl           ;      ;      ;CALC    ;Saugus Ctr          ;  788397.0; 2994786.0
+PLC;sllwr ;sullivan sta - lower                    ;sull  ;      ;        ;                    ;  770708.0; 2965326.0
+PLC;smore ;sagamore & washington - charl           ;      ;      ;        ;                    ;  781577.0; 2972844.0
+PLC;snctr ;memorial senior center                  ;      ;woburn;        ;                    ;  751247.3; 3009400.6
+PLC;speve ;Spruce & Everett                        ;      ;      ;        ;                    ;  780546.0; 2969393.3
+PLC;sqone ;sqaure one mall                         ;      ;saugus;CALC    ;                    ;  784110.5; 2992956.6
+PLC;statx ;State St Stop Express Bus               ;state ;      ;CALC    ;                    ;  775766.7; 2956132.6
+PLC;stone ;stoneham square                         ;      ;stone ;        ;                    ;  764018.0; 2999836.0
+PLC;sull  ;sullivan sta - upper                    ;      ;      ;CALC    ;Sullivan            ;  770619.2; 2965324.7
+PLC;sweet ;sweester circle                         ;      ;evrt  ;        ;                    ;  774915.3; 2972311.0
+PLC;tc128 ;tradecenter 128                         ;      ;woburn;        ;                    ;  747084.0; 3007030.0
+PLC;teele ;teele sq @ broadway                     ;      ;somer ;        ;                    ;  756734.0; 2972271.0
+PLC;thche ;third & chestnut - charl                ;      ;      ;        ;                    ;  780843.1; 2968081.6
+PLC;tobin ;Tobin Bridge                            ;      ;      ;        ;                    ;  778087.0; 2965134.0
+PLC;tufts ;tufts square - charl fells              ;      ;      ;        ;                    ;  762479.0; 2971825.0
+PLC;unsqu ;union square - somerville               ;      ;      ;        ;                    ;  765512.0; 2963430.0
+PLC;uphgh ;upper highland - fells                  ;      ;      ;CALC    ;Woodland            ;  766900.1; 2989981.7
+PLC;upwav ;upham & waverly - fells                 ;      ;      ;        ;                    ;  778092.0; 2992629.0
+PLC;wacry ;Washington & Cary                       ;      ;      ;CALC    ;                    ;  782888.0; 2970472.0
+PLC;wakef ;wakefield sq. - fells                   ;      ;      ;CALC    ;                    ;  772185.2; 3008412.1
+PLC;warbp ;Washington Ave @ Revere Beach Parkway   ;      ;      ;CALC    ;                    ;  781486.0; 2972538.0
+PLC;welst ;wellington sta. - charl                 ;      ;      ;CALC    ;Wellington Sta      ;  770646.7; 2972068.5
+PLC;whill ;winter hill - somvl charl               ;      ;      ;        ;                    ;  764897.0; 2969155.0
+PLC;wicir ;winthrop circle                         ;      ;medfrd;        ;                    ;  759389.0; 2978769.0
+PLC;winsq ;winchester sq. - charl fells            ;      ;      ;        ;                    ;  753896.0; 2989759.0
+PLC;wnbrk ;winthrop st. @ brooks st. (medford hs)  ;      ;medfrd;CALC    ;                    ;  757202.2; 2981018.6
+PLC;wobsq ;woburn sq. - charl fells                ;      ;      ;        ;                    ;  750000.2; 3000025.6
+PLC;wobur ;woburn line - charl somvl               ;      ;      ;        ;                    ;  741082.2; 3000026.5
+PLC;wondw ;Wonderland West - Revere                ;      ;revere;CALC    ;Wonderland          ;  793185.8; 2976108.3
+PLC;woodc ;woodlawn - charl                        ;      ;      ;CALC    ;Woodlawn            ;  782202.0; 2976825.0
+PLC;woodi ;wood island sta. - lynn                 ;      ;      ;CALC    ;WoodIsland          ;  784961.0; 2964119.0
+PLC;wyomc ;wyoming sq. - charl                     ;      ;      ;        ;                    ;  771670.0; 2990327.0

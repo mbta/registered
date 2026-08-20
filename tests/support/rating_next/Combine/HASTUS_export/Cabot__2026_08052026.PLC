@@ -1,0 +1,143 @@
+PLC;1010m ;1010 Mass. Ave opp Magazine St          ;      ;      ;        ;                    ;  772948.0; 2944840.0
+PLC;adgal ;adams & gallivan blvd. - qubus          ;      ;      ;CALC    ;                    ;  776438.0; 2928673.0
+PLC;airbs ;Airport Station Busway - CT Routes      ;aport ;      ;CALC    ;Airport Sta         ;  783191.5; 2961739.6
+PLC;alban ;at albny garage - albny                 ;      ;      ;        ;                    ;  774050.8; 2949401.0
+PLC;alrmp ;Allston Trpk Ramps                      ;      ;      ;        ;                    ;  758217.0; 2956087.0
+PLC;altol ;Allston Toll Plaza                      ;      ;      ;        ;                    ;  758162.0; 2955585.0
+PLC;andrw ;andrew station - albny cabot            ;      ;      ;CALC    ;Andrew              ;  775809.1; 2945558.1
+PLC;ashmt ;Ashmont Station                         ;ashmn ;boston;CALC    ;                    ;  774192.6; 2928863.5
+PLC;bally ;Harvard Station Busway                  ;      ;      ;CALC    ;Harvard             ;  758574.8; 2961416.4
+PLC;bauck ;bay st at auckland st                   ;      ;boston;        ;                    ;  776101.0; 2938730.0
+PLC;bbsta ;Back Bay Station (bus)                  ;      ;      ;CALC    ;                    ;  770773.0; 2951931.0
+PLC;bcec  ;Boston Convention Center                ;      ;      ;        ;                    ;  779431.0; 2951895.0
+PLC;bcnwa ;beacon & washington                     ;      ;      ;        ;                    ;  754774.0; 2948881.0
+PLC;bdfch ;bedford & chauncy sts. - cabot albny    ;      ;      ;CALC    ;                    ;  775190.8; 2954470.5
+PLC;bethi ;Beth Israel Hosp @ Fenway               ;      ;      ;CALC    ;                    ;  762751.0; 2949285.0
+PLC;bhdud ;Blue Hill Ave @ Dudley St.              ;      ;      ;        ;                    ;  771003.0; 2943792.0
+PLC;bhqui ;Blue Hill Ave @ Quincy St.              ;      ;      ;        ;                    ;  770042.0; 2939952.0
+PLC;bltal ;Blue Hill Ave. @ Talbot Ave.            ;      ;      ;        ;                    ;  767622.0; 2932806.0
+PLC;bocnh ;Boylston @ Chestnut Hill Ave            ;      ;      ;        ;                    ;  752822.0; 2944197.0
+PLC;boham ;Boylston @ Hammond                      ;      ;      ;        ;                    ;  747058.0; 2943054.0
+PLC;botul ;Boylston @ Tully                        ;      ;      ;CALC    ;Boylston/Tully      ;  746072.0; 2942704.0
+PLC;brcom ;brighton & commonwealth ave - cabot     ;      ;      ;        ;                    ;  757345.0; 2953593.0
+PLC;brctr ;brighton center - bartl cabot albny     ;      ;      ;CALC    ;Brighton Ctr        ;  749833.0; 2952441.0
+PLC;brghm ;Brigham Circle (bus)                    ;      ;      ;        ;                    ;  762807.0; 2946912.0
+PLC;brkpk ;Brookline Ave @ Park Dr.                ;      ;      ;        ;                    ;  763626.0; 2950366.0
+PLC;brkvl ;brookline village - cabot               ;      ;      ;CALC    ;Brookline Vl        ;  759815.0; 2946154.0
+PLC;brlng ;brookline & longwood aves. - cabot      ;      ;      ;        ;                    ;  762349.0; 2948767.0
+PLC;brway ;broadway station - albny cabot          ;brdwy ;      ;CALC    ;Broadway Station    ;  775922.1; 2950201.2
+PLC;bubrg ;Commonwealth Ave @ BU Bridge            ;      ;      ;        ;                    ;  761680.0; 2952996.0
+PLC;bumed ;BU Medical Campus                       ;      ;      ;        ;                    ;  771583.0; 2947588.0
+PLC;cabgr ;C at cabot garage - cabot               ;      ;      ;        ;                    ;  775907.0; 2949020.0
+PLC;cabot ;Cabot Bus Garage                        ;cabgr ;      ;CALC    ;Cabot Gar           ;  775749.0; 2949516.8
+PLC;cancr ;canton center                           ;      ;      ;        ;                    ;  752264.4; 2882344.3
+PLC;canjs ;Canton Junction Station Bus             ;      ;      ;        ;                    ;  750166.0; 2884741.0
+PLC;child ;Children's Hospital on Longwood Ave     ;      ;      ;        ;                    ;  762927.0; 2948347.0
+PLC;cmbwr ;cambridge st @ warren st (brighton hs)  ;      ;boston;CALC    ;                    ;  751541.0; 2952826.0
+PLC;cnhlm ;chestnut hill mall                      ;      ;      ;CALC    ;Chestnut Hill Mall  ;  743354.2; 2942603.1
+PLC;cntsq ;central sq. camb albny/cabot somvl      ;      ;      ;CALC    ;Central Sq          ;  763219.4; 2958351.4
+PLC;codmn ;codman square - cabot                   ;      ;      ;        ;                    ;  772108.0; 2931049.0
+PLC;cool  ;coolidge corner - beacon green          ;      ;      ;        ;                    ;  758547.0; 2949941.0
+PLC;copsq ;Copley Sq. @ Stuart St.                 ;      ;      ;        ;                    ;  770647.0; 2952226.0
+PLC;copst ;Copley (bus)                            ;      ;      ;CALC    ;Copley              ;  770377.8; 2952873.0
+PLC;coqui ;Columbia Rd @ Quincy St                 ;      ;      ;        ;                    ;  772417.0; 2938770.0
+PLC;cowas ;Columbia Rd @ Washington St             ;      ;      ;        ;                    ;  769625.0; 2936609.0
+PLC;ctypt ;city point - albny cabot                ;      ;      ;CALC    ;City Point          ;  782722.0; 2948727.6
+PLC;cypbo ;Cypress @ Boylston                      ;      ;      ;        ;                    ;  756667.0; 2945357.0
+PLC;dayo  ;Day Blvd & O St.                        ;      ;      ;        ;                    ;  783379.2; 2946266.0
+PLC;dotav ;dorchester ave and park st - cabot bartl;      ;      ;        ;                    ;  775025.3; 2934151.7
+PLC;dotga ;Dorchester Ave @ Galivan Blvd           ;      ;      ;        ;                    ;  773626.0; 2927277.0
+PLC;dotst ;Dorchester St. & 8th St                 ;      ;      ;        ;                    ;  777547.0; 2946637.0
+PLC;dudly ;Nubian Station - cabot albny bartl      ;      ;      ;CALC    ;Nubian              ;  768663.8; 2945423.6
+PLC;edevt ;Edward Everett Square Columbia @ Mass Av;      ;      ;        ;                    ;  774737.0; 2942052.0
+PLC;egles ;egleston sq. - bartl cabot              ;      ;      ;        ;                    ;  764894.0; 2940494.0
+PLC;evnsf ;Evans Field                             ;      ;boston;        ;                    ;  784869.4; 2948369.5
+PLC;ewalp ;e. walpole - bartl                      ;      ;      ;CALC    ;                    ;  733068.0; 2883887.0
+PLC;fedfr ;federal & franklin - cabot              ;      ;      ;CALC    ;Federal/Franklin    ;  776052.3; 2954853.9
+PLC;fenwy ;fenway station - riverside green        ;      ;      ;        ;                    ;  763123.0; 2951103.0
+PLC;fgpbs ;Forge Park Bus                          ;      ;      ;        ;                    ;  672722.0; 2857794.3
+PLC;fhill ;Forest Hills Busway                     ;forhl ;      ;CALC    ;Forest Hills        ;  760853.5; 2934997.2
+PLC;fldcr ;fields corner station - qubus           ;      ;      ;CALC    ;                    ;  774637.4; 2934583.8
+PLC;fnypk ;Fenway Park                             ;      ;boston;        ;                    ;  764586.0; 2951657.0
+PLC;fourc ;Four Corners Dorchester                 ;      ;      ;        ;                    ;  771480.0; 2934411.0
+PLC;frkbs ;Franklin Station Bus                    ;      ;      ;        ;                    ;  683916.4; 2855076.7
+PLC;frnpk ;franklin park - cabot bartl             ;      ;      ;CALC    ;Franklin Pk         ;  768021.3; 2935501.4
+PLC;genbo ;Geneva Ave @ Bowdoin St.                ;      ;      ;        ;                    ;  772083.0; 2935914.0
+PLC;genco ;Geneva Ave. @ Columbia Rd.              ;      ;      ;        ;                    ;  770246.0; 2936880.0
+PLC;ghall ;grove hall - bartl cabot                ;      ;      ;        ;                    ;  769049.0; 2938072.0
+PLC;harsq ;harvard square                          ;      ;      ;CALC    ;Harv Dawes          ;  759097.0; 2961399.0
+PLC;hayms ;haymarket - cabot albny lynn fells charl;      ;      ;CALC    ;Haymarket           ;  775574.8; 2957688.8
+PLC;hhgat ;Harvard - Holyoke Street                ;      ;      ;CALC    ;Harv Holyoke        ;  759424.0; 2961212.0
+PLC;hrugg ;huntington & ruggles - cabot            ;      ;      ;        ;                    ;  765489.5; 2948339.7
+PLC;hunbv ;Huntington Ave/Belvidere St             ;      ;      ;        ;                    ;  769163.8; 2951147.9
+PLC;hvdcm ;Harvard & Comm Ave                      ;      ;      ;        ;                    ;  755921.0; 2952909.0
+PLC;hynes ;hynes ica sta. - green                  ;      ;      ;        ;                    ;  767493.0; 2952126.0
+PLC;jasst ;jackson sq.sta. - cabot bartl           ;jaksn ;      ;CALC    ;                    ;  764304.1; 2942985.0
+PLC;jfk   ;JFK/UMass Busway                        ;      ;      ;CALC    ;                    ;  777418.8; 2942169.4
+PLC;jqnsb ;jersey & queensberry - cabot            ;      ;      ;CALC    ;Jersey/Queensberry  ;  765120.0; 2950214.0
+PLC;kane  ;Kane Square                             ;      ;      ;CALC    ;                    ;  774668.0; 2938533.0
+PLC;kenbs ;kenmore busway - cabot albny            ;      ;      ;CALC    ;Kenmore             ;  765454.2; 2952441.1
+PLC;kneel ;kneeland st. - albny                    ;      ;      ;        ;                    ;  775306.8; 2953070.1
+PLC;latac ;Warren St. @ Boston Latin Academy       ;      ;      ;CALC    ;                    ;  768905.2; 2940579.0
+PLC;lbrwy ;L st @ broadway                         ;      ;boston;        ;                    ;  781786.0; 2947674.0
+PLC;louis ;Ave Louis Pasteur (Boston Latin HS)     ;      ;      ;CALC    ;Ave Louis Pasteur   ;  763665.0; 2948534.4
+PLC;maboy ;mass. ave & boylston st. - cabot        ;      ;      ;        ;                    ;  767744.0; 2951890.0
+PLC;malcx ;Malcom X Blvd @ Roxbury St.             ;madpk ;boston;CALC    ;                    ;  766472.0; 2946176.0
+PLC;maput ;Mass Ave & Putnam                       ;      ;      ;        ;                    ;  760666.0; 2960110.0
+PLC;masis ;massachusetts ave @ island st           ;      ;      ;        ;                    ;  772294.0; 2945981.0
+PLC;masta ;mass. station orange line               ;      ;      ;        ;                    ;  768893.8; 2949819.4
+PLC;matpn ;Mattapan Station                        ;      ;      ;CALC    ;                    ;  766604.9; 2922818.1
+PLC;mdyca ;moody & carter sts (Central Sq Waltham) ;      ;      ;CALC    ;Waltham Ctr         ;  727418.9; 2961671.0
+PLC;melwa ;melnea cass blvd --washington st --cabot;      ;      ;        ;                    ;  769451.7; 2946609.7
+PLC;mglen ;main st @ glenwood st                   ;      ;walpol;CALC    ;                    ;  723235.5; 2878434.9
+PLC;mit   ;MIT Shelter @ Mass Ave                  ;      ;      ;        ;                    ;  765984.7; 2956181.8
+PLC;mkrmk ;McCormack Housing                       ;      ;      ;CALC    ;                    ;  777117.0; 2945008.0
+PLC;mortn ;morton st @ blue hill ave - bartl       ;      ;      ;        ;                    ;  766713.0; 2928863.1
+PLC;mount ;mountfort st @ comm ave -- cabot albany ;      ;      ;        ;                    ;  762674.0; 2952226.0
+PLC;ndhts ;needham heights - albny                 ;      ;      ;        ;                    ;  727830.0; 2932171.0
+PLC;nedhm ;needham st @ columbia st                ;      ;newton;        ;                    ;  734215.0; 2939610.0
+PLC;needj ;needham junction - albny                ;      ;      ;CALC    ;                    ;  727106.0; 2924713.0
+PLC;nfkbs ;Norfolk Station Bus                     ;      ;      ;        ;                    ;  703902.0; 2868660.1
+PLC;nhvws ;North Harvard & Western                 ;      ;      ;        ;                    ;  756355.8; 2957734.4
+PLC;nuniv ;Northeastern Univ                       ;      ;      ;        ;                    ;  767307.0; 2949311.0
+PLC;nwcor ;Newton Corner (bus)                     ;      ;      ;CALC    ;                    ;  741177.0; 2955346.0
+PLC;nwthl ;newton highlands - cabot                ;      ;      ;        ;                    ;  735590.1; 2942453.2
+PLC;nwtup ;newton upper falls - cabot              ;      ;      ;        ;                    ;  731703.0; 2937920.0
+PLC;nwtvl ;newtonville - cabot                     ;      ;      ;        ;                    ;  735362.0; 2953015.0
+PLC;oaksq ;oak square - brighton                   ;      ;      ;CALC    ;                    ;  745753.0; 2952962.0
+PLC;otsum ;otis & summer sts. cabot albny          ;      ;      ;CALC    ;                    ;  775469.7; 2954411.6
+PLC;perks ;Perkins Sq/Dorchester@Broadway S.B.     ;      ;      ;        ;                    ;  779017.0; 2947597.0
+PLC;pierc ;pierce square - bartl                   ;      ;      ;        ;                    ;  773109.0; 2924688.0
+PLC;pktrm ;park & tremont sts. - bartl cabot       ;      ;      ;CALC    ;Park & Tremont      ;  774257.5; 2954925.3
+PLC;prksq ;park sq. - charl - cabot                ;      ;boston;        ;                    ;  773257.0; 2953210.0
+PLC;rbrts ;roberts - albny                         ;      ;      ;CALC    ;                    ;  720454.0; 2956266.0
+PLC;roxbs ;Roxbury Crossing Station Bus            ;      ;      ;        ;                    ;  765586.6; 2946129.3
+PLC;rugg  ;ruggles station - bartl                 ;      ;      ;CALC    ;Ruggles             ;  767298.7; 2947909.9
+PLC;rvcen ;River Street @ Central Avenue           ;      ;      ;        ;                    ;  771251.0; 2924203.0
+PLC;sjarl ;St James Ave @ Arlington St             ;      ;      ;        ;StJames/Arlington   ;  772218.0; 2953280.0
+PLC;slvwa ;silver line @ washington st             ;      ;boston;        ;                    ;  773888.0; 2951633.0
+PLC;sobay ;South Bay Mall - Cabot Albany           ;      ;      ;        ;                    ;  774149.0; 2945829.0
+PLC;sosta ;South Station - Cabot                   ;sstat ;boston;CALC    ;                    ;  776459.0; 2953774.0
+PLC;stjim ;St James Ave @ Dartmouth Sts            ;      ;      ;CALC    ;                    ;  770509.0; 2952573.0
+PLC;stobs ;stoughton station bus                   ;      ;      ;        ;                    ;  763495.9; 2870951.0
+PLC;svrhm ;seaver & humboldt - cabot               ;      ;      ;        ;                    ;  766536.0; 2938193.0
+PLC;terme ;Terminal E - Logan Airport              ;      ;      ;        ;                    ;  785787.0; 2959963.7
+PLC;towhm ;townsend st @ humbolt ave (latin acad)  ;      ;boston;CALC    ;                    ;  767969.0; 2940814.0
+PLC;tred  ;tremont st @ darthmouth/w.dedham ts     ;      ;boston;        ;                    ;  771367.0; 2950222.0
+PLC;trmas ;tremont & mass. ave. - cabot            ;      ;      ;        ;                    ;  769667.0; 2948939.0
+PLC;trmb1 ;Terminal B Stop 1                       ;      ;      ;        ;                    ;  786160.7; 2957338.5
+PLC;trmcd ;Terminal C (formerly D)                 ;      ;      ;        ;                    ;  786598.9; 2958985.2
+PLC;tumed ;Washington St. @ Tufts Medical Cnt      ;      ;      ;        ;                    ;  774085.5; 2952792.6
+PLC;umass ;u. mass - cabot                         ;      ;      ;CALC    ;UMASS               ;  781613.8; 2939143.3
+PLC;union ;union square - allston                  ;      ;      ;CALC    ;                    ;  754448.0; 2954130.0
+PLC;upham ;uphams corner - cabot bartl             ;      ;      ;        ;                    ;  773727.1; 2940811.5
+PLC;wacol ;washington st. & columbia rd.           ;      ;      ;        ;                    ;  769678.0; 2936590.0
+PLC;waher ;Washington St. @ Herald St.             ;      ;boston;        ;                    ;  773888.0; 2951633.0
+PLC;warwl ;Warren St. @ Walnut Ave.                ;      ;      ;        ;                    ;  768908.0; 2943551.0
+PLC;wasma ;Massachusetts Ave @ Washington - cabot, ;      ;      ;        ;                    ;  770520.0; 2947921.0
+PLC;webrk ;Washington & E. Berkeley - cabot        ;      ;      ;        ;                    ;  773528.0; 2950662.0
+PLC;wellh ;wellington hill - bartl                 ;      ;      ;        ;                    ;  766215.0; 2926950.0
+PLC;wnshp ;winship street - albny                  ;      ;      ;CALC    ;Winship St          ;  750131.0; 2951328.0
+PLC;wnwtn ;west newton - cabot                     ;      ;      ;        ;                    ;  728604.0; 2951472.0
+PLC;wtrsq ;Watertown Square                        ;      ;      ;CALC    ;                    ;  741370.4; 2958287.1
+PLC;wtryd ;watertown yard - bartl cabot            ;      ;      ;CALC    ;Watertown           ;  741115.3; 2957882.1

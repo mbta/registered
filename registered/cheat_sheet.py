@@ -78,7 +78,7 @@ class CheatSheet:
 
         date_combos = list(self.date_combos.items())
         date_combos.append(
-            (first_weekday, f"{str(self.weekday_base)} DR1 ST1 *** TAKE THIS OUT")
+            (first_weekday, f"{str(self.weekday_base)} *** TAKE OUT DR1 ST1")
         )
         date_combos.sort()
         exceptions = []

@@ -1,0 +1,102 @@
+VDC;10      ;        ;Harvard                                                                                             
+VDC;100     ;        ;City Point                                                                                          
+VDC;103     ;        ;Townsend & Humboldt                                                                                 
+VDC;108     ;        ;Copley via South Bay Center                                                                         
+VDC;109     ;        ;City Point via South Bay Center                                                                     
+VDC;11      ;        ;Nubian Station                                                                                      
+VDC;110     ;        ;Bayview                                                                                             
+VDC;112     ;        ;Downtown                                                                                            
+VDC;150     ;        ;Kane Sq                                                                                             
+VDC;151     ;        ;Fields Corner                                                                                       
+VDC;152     ;        ;Ruggles                                                                                             
+VDC;154     ;        ;Nubian Station                                                                                      
+VDC;155     ;        ;Nubian Station via Fields Corner                                                                    
+VDC;161     ;        ;Forest Hills                                                                                        
+VDC;1622    ;        ;McCormack via South Bay Ctr                                                                         
+VDC;164     ;        ;Andrew                                                                                              
+VDC;166     ;        ;City Point via Andrew                                                                               
+VDC;167     ;        ;Forest Hills via South Bay Center                                                                   
+VDC;168     ;        ;Andrew via South Bay Center                                                                         
+VDC;169     ;        ;Forest Hills via South Bay Center                                                                   
+VDC;170     ;        ;Fields Corner                                                                                       
+VDC;171     ;        ;Andrew Station                                                                                      
+VDC;1710    ;        ;Logan Airport via Andrew                                                                            
+VDC;180     ;        ;Ashmont                                                                                             
+VDC;181     ;        ;Andrew                                                                                              
+VDC;190     ;        ;Fields Corner                                                                                       
+VDC;191     ;        ;Ruggles                                                                                             
+VDC;1910    ;        ;Haymarket via Nubian Square & Fields Corner                                                         
+VDC;1911    ;        ;Mattapan via Nubian Square & Fields Corner                                                          
+VDC;193     ;        ;Kenmore                                                                                             
+VDC;1930    ;        ;Haymarket via Kenmore                                                                               
+VDC;1931    ;        ;Watertown via Kenmore                                                                               
+VDC;194     ;        ;Adams & Gallivan via Fields Corner                                                                  
+VDC;195     ;        ;Avenue Louis Pasteur                                                                                
+VDC;220     ;        ;Ruggles Station via Jackson Station                                                                 
+VDC;221     ;        ;Ashmont Station via Jackson Station                                                                 
+VDC;224     ;        ;Kenmore via Ruggles                                                                                 
+VDC;230     ;        ;Ruggles Station via Washington St.                                                                  
+VDC;231     ;        ;Ashmont Station via Washington St.                                                                  
+VDC;237     ;        ;Watertown Yard via Nubian Square                                                                    
+VDC;281     ;        ;Ruggles Station via Nubian Station                                                                  
+VDC;283     ;        ;Nubian Station via Grove Hall                                                                       
+VDC;430     ;        ;Ruggles via Tremont St.                                                                             
+VDC;431     ;        ;Park St. & Tremont St.                                                                              
+VDC;440     ;        ;Jackson Square via Humboldt Ave.                                                                    
+VDC;441     ;        ;Ruggles Station via Humboldt Ave.                                                                   
+VDC;450     ;        ;Franklin Park via Blue Hill Ave.                                                                    
+VDC;451     ;        ;Ruggles Station via Blue Hill Ave.                                                                  
+VDC;453     ;        ;Malcolm X Blvd. via Blue Hill Ave.                                                                  
+VDC;470     ;        ;Central Square, Cambridge via Longwood & Boston Medical Center                                      
+VDC;478     ;        ;Broadway Station via Boston Medical Center                                                          
+VDC;5015    ;        ;Downtown Express via Copley Square                                                                  
+VDC;5016    ;        ;Brighton Express via Copley Sq & Cambridge St                                                       
+VDC;5017    ;        ;Downtown Express via Cambridge St & Copley Sq                                                       
+VDC;5018    ;        ;Brighton Express via Copley Square                                                                  
+VDC;5040    ;        ;Watertown via Newton Corner & Mass. Pike (Express)                                                  
+VDC;5042    ;        ;Downtown via Newton Corner & Mass. Pike (Express)                                                   
+VDC;5043    ;        ;Watertown via Copley Square & Newton Corner & Mass. Pike (Express)                                  
+VDC;5044    ;        ;Downtown via Copley Square & Newton Corner & Mass. Pike (Express)                                   
+VDC;552     ;        ;Copley Station via Ipswich St.                                                                      
+VDC;553     ;        ;Queensberry St. via Ipswich St.                                                                     
+VDC;5537    ;        ;Roberts via West Newton                                                                             
+VDC;5538    ;        ;Newton Corner via West Newton                                                                       
+VDC;570     ;        ;Kenmore Station via Brighton                                                                        
+VDC;571     ;        ;Watertown Yard via Brighton                                                                         
+VDC;572     ;        ;Oak Square via Brighton                                                                             
+VDC;573     ;        ;Franklin Pk via Union Sq                                                                            
+VDC;574     ;        ;Kenmore Station                                                                                     
+VDC;575     ;        ;Watertown Yard via Kenmore Station                                                                  
+VDC;591     ;        ;Needham Junction via Needham St.                                                                    
+VDC;593     ;        ;Watertown Square via Needham St.                                                                    
+VDC;600     ;        ;Brookline Village via Route 9                                                                       
+VDC;601     ;        ;Kenmore Station via Cypress St.                                                                     
+VDC;604     ;        ;Chestnut Hill Mall via Cypress St.                                                                  
+VDC;650     ;        ;Brighton Center via Washington St.                                                                  
+VDC;651     ;        ;Kenmore Station via Washington St.                                                                  
+VDC;661     ;        ;Nubian Station via Allston                                                                          
+VDC;662     ;        ;Harvard Square via Allston                                                                          
+VDC;663     ;        ;Harvard Station                                                                                     
+VDC;665     ;        ;Brighton Center via Brookline                                                                       
+VDC;7080    ;        ;Andrew Station (Limited Stops)                                                                      
+VDC;7081    ;        ;Beth Israel (Limited Stops)                                                                         
+VDC;71      ;        ;South Station                                                                                       
+VDC;73      ;        ;Downtown via Harbor Industrial Park                                                                 
+VDC;76      ;        ;Otis & Summer                                                                                       
+VDC;78      ;        ;City Point                                                                                          
+VDC;79      ;        ;City Point via East First                                                                           
+VDC;80261   ;        ;Canton Junction Station                                                                             
+VDC;80262   ;        ;Forge Park                                                                                          
+VDC;80271   ;        ;Canton Junction Station                                                                             
+VDC;80272   ;        ;Stoughton Station                                                                                   
+VDC;80331   ;        ;Evans Field                                                                                         
+VDC;80332   ;        ;JFK/UMass                                                                                           
+VDC;81      ;        ;Kenmore                                                                                             
+VDC;86      ;        ;Harbor Point via South Bay Center                                                                   
+VDC;87      ;        ;Harbor Point                                                                                        
+VDC;88      ;        ;Kenmore via South Bay Center                                                                        
+VDC;90      ;        ;City Point                                                                                          
+VDC;91      ;        ;Copley Square                                                                                       
+VDC;95      ;        ;City Point                                                                                          
+VDC;96      ;        ;Kenmore Station via Boston Latin                                                                    
+VDC;97      ;        ;City Point via Andrew Station                                                                       

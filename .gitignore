@@ -4,3 +4,4 @@
 !/support/ratings/.gitkeep
 /cache/
 /htmlcov
+__pycache__/
